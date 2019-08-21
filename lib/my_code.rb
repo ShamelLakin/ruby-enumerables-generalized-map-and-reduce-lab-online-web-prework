@@ -1,1 +1,3 @@
-# Your Code Here
+def neg_num(digits)
+  map
+end
