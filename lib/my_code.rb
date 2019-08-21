@@ -1,3 +1,3 @@
 def neg_num(digits)
-  map
+  neg_num.map { |n| n * -1 }
 end
